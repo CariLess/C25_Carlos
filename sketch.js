@@ -23,7 +23,7 @@ function setup() {
   motor = Engine.create();
   mundo = motor.world;
 
-  //caja1 = new Box(700,365,70,70);
+  caja1 = new Box(700,365,70,70);
   //caja2 = new Box(920,365,70,70);
   //caja3 = new Box(700,285,70,70);
   caja4 = new Box(920,285,70,70);
