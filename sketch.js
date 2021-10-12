@@ -48,7 +48,7 @@ function draw() {
   background(0);
   Engine.update(motor); //actualiza nuestro motor
   
-  caja1.display();
+  //caja1.display();
   caja2.display();
   caja3.display();
   caja4.display();
